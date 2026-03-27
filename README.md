@@ -33,12 +33,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manucian-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=manucian-official&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manucian-official&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
 
 ---
 
