@@ -26,8 +26,12 @@
 
 ## 📊 GitHub Stats (Live)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manucian-official&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=manucian-official&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manucian-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=manucian-official&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manucian-official&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
