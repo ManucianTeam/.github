@@ -55,7 +55,7 @@
   <a href="https://github.com/manucian-official">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-<a href="https://facebook.com/yourpage](https://web.facebook.com/khoidir.12/">
+<a href="https://web.facebook.com/khoidir.12/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 <a href="https://discord.gg/yourinvite">
